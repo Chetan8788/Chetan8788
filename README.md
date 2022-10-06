@@ -7,7 +7,7 @@
 
 - 👯 I’m done the collaborative on [Jcrew website clone](https://warm-kitsune-f7de38.netlify.app/)
 
-- 🌱 I’m currently learning **HTMl, CSS ,JavaScript ,JAVA Backend ,SQL ,MySQL ,Hibernate**
+- 🌱 I’m currently learning **HTMl, CSS ,JavaScript ,JAVA Backend ,SQL ,MySQL ,Hibernate,Spring Boot**
 
 - 👯 I’m done the collaborative on [Overstock website clone](https://sunny-lolly-6075cf.netlify.app/)
 
